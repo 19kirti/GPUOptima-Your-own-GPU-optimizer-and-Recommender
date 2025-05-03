@@ -1,5 +1,9 @@
 # GPU Cost Optimizer & Recommender ⚡💰
 
+video link : https://drive.google.com/file/d/10beDjq4KupwS2uJMG6w9g-JSCOkYG8E2/view?usp=drive_link
+
+pptlink : https://www.canva.com/design/DAGmYSJHP4U/2i1EcfPmhEzsXoQJqP0kuA/edit?utm_content=DAGmYSJHP4U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 *A cloud-native tool to recommend optimal GPU instances based on workload requirements and budget, powered by real-time pricing and AI explanations.*
 
 ---
@@ -29,6 +33,12 @@
    ```bash
    git clone https://github.com/your-username/gpufe.git
    cd gpufe
+
+## TO RUN THE MAIN.PY FROM FETCHING GPU , CPU AND RAM USAGE make sure to add image name in body using postman You must have docker install in you 
+ ```bash
+   pip install -r requirements.txt
+   python main.py
+```
 ## Set up environment variables:
 
 1. Create .env files for frontend/backend (see .env.example).
