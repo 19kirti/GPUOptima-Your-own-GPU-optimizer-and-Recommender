@@ -31,8 +31,8 @@ pptlink : https://www.canva.com/design/DAGmYSJHP4U/2i1EcfPmhEzsXoQJqP0kuA/edit?u
 ## 📦 **Installation**
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/gpufe.git
-   cd gpufe
+   git clone https://github.com/your-username/GPUOptima-Your-own-GPU-optimizer-and-Recommender.git
+   cd GPUOptima-Your-own-GPU-optimizer-and-Recommender
 
 ## TO RUN THE MAIN.PY FROM FETCHING GPU , CPU AND RAM USAGE make sure to add image name in body using postman You must have docker install in you 
  ```bash
