@@ -62,7 +62,7 @@ Click "Explain" for AI-generated insights.
 3. **Visual Cues**: Icons (⚡, 🤖) and intuitive UI to improve readability. 
 
 ## License
-MIT License. See LICENSE.
+MIT License.
 
 ## Credits
 Built for AceCloud RTDS Hackathon 2025.
